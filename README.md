@@ -10,7 +10,7 @@ Para a criação do vídeo utilizei as ferramentasde IA D-ID e Microsoft Copilot
 Para a criação do texto digitei um Prompt no Microsoft Copilot solicitando a criação de um texto informativo para narração sobre IA generativa. No D-ID escolhi um avatar e uma voz feminina para a narração 
 
 ## 🚀 Resultados
-Link para resultado
+https://github.com/Anapaula3001/Projeto-Fake-or-Naty/blob/main/-D-ID-prj_ndkcgN3UcQL4pLmiRJzPa.mp4
 
 ## 💭 Reflexão (Opcional)
 Foi um projeto muito interessante pois pude colocar em prática aquilo que aprendi no curso
